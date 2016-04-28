@@ -1,24 +1,6 @@
-# Frontend Seed
-[![Build Status](https://travis-ci.org/zuoez02/front-seed.svg?branch=master)](https://travis-ci.org/zuoez02/front-seed)
+# Reading Record
 
-A frontend seed to build SPA frontend project.
-
-Using:
-+ Server
-    * Nodejs
-    * Express
-    * ES2015
-    * Babel
-+ Browser
-    * Angular
-    * Bower
-    * Bootstrap
-+ Test
-    * Mocha
-+ Build system
-    * Gulp
-+ Lint
-    * Eslint
+Record everyday reading status. Visualize with big data tools.
 
 ## Start
 
